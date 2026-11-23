@@ -1,0 +1,6 @@
+{
+  "name": "status-line",
+  "version": "0.2.0",
+  "description": "Status line and usage panel: model, context, cost, and rate limits.",
+  "types": "./types/index.d.ts"
+}

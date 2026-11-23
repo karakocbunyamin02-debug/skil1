@@ -1,0 +1,5 @@
+{
+  "name": "claude-status-line",
+  "owner": { "name": "karakocbunyamin02" },
+  "plugins": [{ "name": "status-line", "source": "./" }]
+}
