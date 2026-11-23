@@ -13,5 +13,5 @@ calls of its own.
 ## Install
 
 ```
-/plugin install status-line --marketplace karakocbunyamin02/claude-status-line
+/plugin install status-line --marketplace karakocbunyamin02-debug/skil1
 ```
